@@ -46,7 +46,7 @@ for my personal use.
 
    ```bash
    mkdir -p /persist/polevault/vault
-   cp -r /path/to/backup/bitwarden_rs /persist/polevault/vault
+   cp -r /path/to/backup/bitwarden_rs/* /persist/polevault/vault/
    ```
 
 5. start network `polevault` and vm with domain `polevault`
