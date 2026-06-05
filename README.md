@@ -62,7 +62,7 @@ for my personal use.
 
    note that the browser will complain about the HTTPS certificates not being
    trusted, this can be ignored. the polevault vm uses `mkcert` to generate new
-   self-signed certificates every boot.
+   privately-signed certificates every boot.
 
    copy-paste works within the browser and downloads go to
    `$XDG_RUNTIME_DIR/polevault-browser-downloads/`.
