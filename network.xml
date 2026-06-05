@@ -1,0 +1,5 @@
+<network>
+  <name>polevault</name>
+  <domain name="polevault"/>
+  <ip address="10.245.0.1" netmask="255.255.255.0"/>
+</network>

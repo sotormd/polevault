@@ -1,0 +1,5 @@
+*-gpg
+*result*
+*pattern-release*
+*.raw
+*.efi
