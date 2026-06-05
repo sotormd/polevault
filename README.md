@@ -64,5 +64,5 @@ for my personal use.
    trusted, this can be ignored. the polevault vm uses `mkcert` to generate new
    privately-signed certificates every boot.
 
-   copy-paste works within the browser and downloads go to
-   `$XDG_RUNTIME_DIR/polevault-browser-downloads/`.
+   copy-paste works between the browser and host and downloads go to
+   `$XDG_RUNTIME_DIR/polevault-browser-downloads/` on the host.
